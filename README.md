@@ -54,8 +54,6 @@ We believe in **learning by doing** and growing together.
 
 > **When curiosity meets collaboration, innovation becomes inevitable.**
 
-<div align="center">
-
 ⭐ If you believe in innovations, consider starring this organization ⭐  
 
 </div>
