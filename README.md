@@ -6,7 +6,7 @@
 ### Rapid Youth Next-Gen Innovation Xecutioners
 <br/>
 <p align="center">
-  <strong>A Student-Led Innovation Collective at Sapthagiri NPS University</strong>
+  <strong>A Student-Led Innovation Collective at Bengaluru</strong>
 </p>
 
 <p align="center">
