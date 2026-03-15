@@ -39,17 +39,6 @@ RYNIX exists to transform **curiosity into capability** and **ideas into impact*
 - Foster a culture of **open collaboration and knowledge sharing**
 - Align student innovation with **university values and guidance**
 
-## Core Focus Areas
-
-| Area | Description |
-|----|----|
-| Ideation | Problem identification & solution design |
-| Research | Experiments, papers, and technical exploration |
-| Development | Web, backend, AI/ML, and systems |
-| Hackathons | Competitive & collaborative innovation |
-| Learning | Workshops, study groups, and peer teaching |
-| Open Source | Community-driven tools and projects |
-
 ## Organizational Model
 
 ### 🔹 Core Team
@@ -67,24 +56,6 @@ RYNIX exists to transform **curiosity into capability** and **ideas into impact*
 
 > The structure is **adaptive** and evolves as the community grows.
 
-## Repositories Overview
-
-This GitHub organization hosts:
-
-- University-aligned projects  
-- Research prototypes & experimental builds  
-- Hackathon submissions  
-- Open-source tools & utilities  
-- Documentation & learning resources  
-
-All repositories follow:
-- Clean code practices  
-- Clear documentation  
-- Scalable structure  
-- Beginner-friendly onboarding  
-
----
-
 ## Who Can Join?
 
 RYNIX is open to everyone, who are:
@@ -98,23 +69,6 @@ RYNIX is open to everyone, who are:
 We believe in **learning by doing** and growing together.
 
 ---
-
-## Collaboration Principles
-
-- Respect & inclusivity  
-- Learning-first mindset  
-- Curiosity over credentials  
-- Quality over quantity  
-- Contribution over competition  
-
-## Getting Started
-
-1. Explore the repositories  
-2. Read project documentation  
-3. Start with beginner-friendly issues  
-4. Collaborate, learn, and contribute  
-
-> Every contribution counts — code, ideas, documentation, or support.
 
 ## Philosophy
 
