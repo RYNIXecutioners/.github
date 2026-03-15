@@ -18,7 +18,6 @@
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 ![Type](https://img.shields.io/badge/type-student--initiative-blue?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/open--source-yes-orange?style=for-the-badge)
-![University](https://img.shields.io/badge/university-SNPSU-purple?style=for-the-badge)
 
 </div>
 
