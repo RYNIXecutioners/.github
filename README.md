@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rynixsnpsu/.github/refs/heads/main/assets/rynix.png" 
+<img src="https://raw.githubusercontent.com/rynixsnpsu/.github/refs/heads/main/rynix.png" 
      alt="RYNIX Logo" 
      width="240"/>
 ### Rapid Youth Next-Gen Innovation Xecutioners
