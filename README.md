@@ -25,14 +25,12 @@
 
 RYNIX exists to transform **curiosity into capability** and **ideas into impact**, while aligning with the academic and ethical vision of the university.
 
-## 🎯 Vision
+## Vision
 
 > To cultivate a collaborative, inclusive, and innovation-focused student ecosystem that nurtures  
 > **technical excellence, leadership, and real-world impact**.
 
----
-
-## 🧭 Mission
+## Mission
 
 - Enable **peer-to-peer learning** and mentorship  
 - Encourage **innovation through hands-on projects**
@@ -41,22 +39,18 @@ RYNIX exists to transform **curiosity into capability** and **ideas into impact*
 - Foster a culture of **open collaboration and knowledge sharing**
 - Align student innovation with **university values and guidance**
 
----
-
-## 🧠 Core Focus Areas
+## Core Focus Areas
 
 | Area | Description |
 |----|----|
-| 💡 Ideation | Problem identification & solution design |
-| 🧪 Research | Experiments, papers, and technical exploration |
-| 🧑‍💻 Development | Web, backend, AI/ML, and systems |
-| 🤖 Hackathons | Competitive & collaborative innovation |
-| 📚 Learning | Workshops, study groups, and peer teaching |
-| 🛠 Open Source | Community-driven tools and projects |
+| Ideation | Problem identification & solution design |
+| Research | Experiments, papers, and technical exploration |
+| Development | Web, backend, AI/ML, and systems |
+| Hackathons | Competitive & collaborative innovation |
+| Learning | Workshops, study groups, and peer teaching |
+| Open Source | Community-driven tools and projects |
 
----
-
-## 🏗 Organizational Model
+## Organizational Model
 
 ### 🔹 Core Team
 - Coordinator  
@@ -73,17 +67,15 @@ RYNIX exists to transform **curiosity into capability** and **ideas into impact*
 
 > The structure is **adaptive** and evolves as the community grows.
 
----
-
-## 📁 Repositories Overview
+## Repositories Overview
 
 This GitHub organization hosts:
 
-- 🎓 University-aligned projects  
-- 🧪 Research prototypes & experimental builds  
-- 🏆 Hackathon submissions  
-- 🛠 Open-source tools & utilities  
-- 📖 Documentation & learning resources  
+- University-aligned projects  
+- Research prototypes & experimental builds  
+- Hackathon submissions  
+- Open-source tools & utilities  
+- Documentation & learning resources  
 
 All repositories follow:
 - Clean code practices  
@@ -93,46 +85,29 @@ All repositories follow:
 
 ---
 
-## 🤝 Who Can Join?
+## Who Can Join?
 
-RYNIX is open to **students of Sapthagiri NPS University** who are:
+RYNIX is open to everyone, who are:
 
 - Curious to learn  
 - Ready to build  
 - Willing to collaborate  
 - Interested in research or innovation  
 
-💡 **No prior expertise required.**  
+**No prior expertise required.**  
 We believe in **learning by doing** and growing together.
 
 ---
 
-## 📜 Collaboration Principles
+## Collaboration Principles
 
-- 🤝 Respect & inclusivity  
-- 📖 Learning-first mindset  
-- 🧠 Curiosity over credentials  
-- 🛠 Quality over quantity  
-- 🌱 Contribution over competition  
+- Respect & inclusivity  
+- Learning-first mindset  
+- Curiosity over credentials  
+- Quality over quantity  
+- Contribution over competition  
 
----
-
-## 🏫 University Alignment & Responsibility
-
-RYNIX is a **student-initiated collaborative effort** intended to enhance:
-- Innovation culture  
-- Research mindset  
-- Technical excellence  
-
-All activities aim to operate with:
-- Proper guidance  
-- Faculty mentorship  
-- Institutional alignment  
-- Ethical and academic responsibility  
-
----
-
-## 📌 Getting Started
+## Getting Started
 
 1. Explore the repositories  
 2. Read project documentation  
@@ -141,9 +116,7 @@ All activities aim to operate with:
 
 > Every contribution counts — code, ideas, documentation, or support.
 
----
-
-## 🌿 Philosophy
+## Philosophy
 
 > **When curiosity meets collaboration, innovation becomes inevitable.**
 
@@ -151,6 +124,6 @@ All activities aim to operate with:
 
 <div align="center">
 
-⭐ If you believe in student-driven innovation, consider starring this organization ⭐  
+⭐ If you believe in innovations, consider starring this organization ⭐  
 
 </div>
