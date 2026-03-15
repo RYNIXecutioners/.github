@@ -25,22 +25,6 @@
 
 RYNIX exists to transform **curiosity into capability** and **ideas into impact**, while aligning with the academic and ethical vision of the university.
 
-## Vision
-
-> To cultivate a collaborative, inclusive, and innovation-focused student ecosystem that nurtures  
-> **technical excellence, leadership, and real-world impact**.
-
-## Mission
-
-- Enable **peer-to-peer learning** and mentorship  
-- Encourage **innovation through hands-on projects**
-- Promote **research-oriented and critical thinking**
-- Participate in **hackathons, ideathons, and innovation challenges**
-- Foster a culture of **open collaboration and knowledge sharing**
-- Align student innovation with **university values and guidance**
-
-## Organizational Model
-
 ### 🔹 Core Team
 - Coordinator  
 - Technical Lead  
