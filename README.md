@@ -21,12 +21,9 @@
 
 </div>
 
-**RYNIX** is a student-driven innovation and collaboration initiative at  
-Bengaluru, built to unite motivated students who want to go beyond classrooms and actively engage in technology, research, and real-world problem solving.
+**RYNIX** is a student-driven innovation and collaboration initiative at Bengaluru, built to unite motivated students who want to go beyond classrooms and actively engage in technology, research, and real-world problem solving.
 
 RYNIX exists to transform **curiosity into capability** and **ideas into impact**, while aligning with the academic and ethical vision of the university.
-
----
 
 ## 🎯 Vision
 
