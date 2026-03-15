@@ -52,13 +52,7 @@ RYNIX is open to everyone, who are:
 **No prior expertise required.**  
 We believe in **learning by doing** and growing together.
 
----
-
-## Philosophy
-
 > **When curiosity meets collaboration, innovation becomes inevitable.**
-
----
 
 <div align="center">
 
