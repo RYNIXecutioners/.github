@@ -25,13 +25,13 @@
 
 RYNIX exists to transform **curiosity into capability** and **ideas into impact**, while aligning with the academic and ethical vision of the university.
 
-### 🔹 Core Team
+###🔹 Core Team
 - Coordinator  
 - Technical Lead  
 - Research & Innovation Lead  
 - Operations & Communication  
 
-### 🔹 Working Domains
+###🔹 Working Domains
 - Web & Application Development  
 - Artificial Intelligence & Data Science  
 - Systems & Cybersecurity  
